@@ -1,0 +1,62 @@
+code,
+kbd,
+pre,
+.img-rounded,
+.img-thumbnail,
+.img-circle,
+.form-control,
+.btn,
+.btn-link,
+.dropdown-menu,
+.input-group-addon,
+.input-group-btn,
+.nav-tabs a,
+.nav-pills a,
+.navbar,
+.navbar-toggle,
+.icon-bar,
+.breadcrumb,
+.pagination,
+.pager *,
+.label,
+.badge,
+.jumbotron,
+.thumbnail,
+.alert,
+.progress,
+.panel,
+.well,
+.modal-content,
+.tooltip-inner,
+.popover,
+.popover-title,
+.carousel-indicators li {
+   border-radius:0 !important;
+}
+.jumbotron, .navbar {
+  background-color: white !important;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  font-color: black !important;
+}
+li {
+  font-size: 1.5em;
+}
+h1{
+  font-size: 8em;
+  font-weight: lighter;
+}
+h2{
+  font-size: 4em;
+  font-weight: bolder;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+p {
+  font-family: 'Lato', sans-serif !important;
+}
+img {
+  width: 400px;
+}
